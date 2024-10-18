@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9ff668f66aaff600808e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "beroringsskjerm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-8833a0fe6455d0650660.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3bd5f3bdb1790dd2cce9.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-0f3671f81a42cc80b395.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-a9ac81bb42b06c6b357e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c1dbb9e6d40b6e623650.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm-Debug-adcf5bcd12df8a2a8e63.json",
+					"name" : "appberoringsskjerm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm_autogen-Debug-3961a0c706c03485cd24.json",
+					"name" : "appberoringsskjerm_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm_autogen_timestamp_deps-Debug-d0a430b562a380291a9a.json",
+					"name" : "appberoringsskjerm_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm_qmlimportscan-Debug-887f9b6f380f18f3833d.json",
+					"name" : "appberoringsskjerm_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm_qmllint-Debug-e3fcff24754a708d6fd4.json",
+					"name" : "appberoringsskjerm_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm_qmllint_json-Debug-8aec14d472e30b89364b.json",
+					"name" : "appberoringsskjerm_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm_qmllint_module-Debug-1d0d81562480eaeda042.json",
+					"name" : "appberoringsskjerm_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm_qmltyperegistration-Debug-c6a5cb2dbfc5fb304d66.json",
+					"name" : "appberoringsskjerm_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appberoringsskjerm_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appberoringsskjerm_tooling-Debug-2c39efbb935ea8f6ac91.json",
+					"name" : "appberoringsskjerm_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug",
+		"source" : "C:/QTSkole/beroringsskjerm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

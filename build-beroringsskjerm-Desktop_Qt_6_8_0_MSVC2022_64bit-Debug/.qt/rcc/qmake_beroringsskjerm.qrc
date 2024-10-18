@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/beroringsskjerm">
+    <file alias="qmldir">C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/beroringsskjerm/qmldir</file>
+  </qresource>
+</RCC>
+

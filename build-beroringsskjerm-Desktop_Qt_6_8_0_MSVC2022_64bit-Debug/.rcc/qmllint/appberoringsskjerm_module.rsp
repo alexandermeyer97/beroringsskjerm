@@ -1,0 +1,10 @@
+-I
+C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug
+-I
+C:/Qt/6.8.0/msvc2022_64/qml
+--resource
+C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qmake_beroringsskjerm.qrc
+--resource
+C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/appberoringsskjerm_raw_qml_0.qrc
+--module
+beroringsskjerm

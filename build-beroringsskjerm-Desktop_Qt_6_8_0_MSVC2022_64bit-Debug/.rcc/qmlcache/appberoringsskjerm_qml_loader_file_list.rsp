@@ -1,0 +1,11 @@
+--resource
+C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/qmake_beroringsskjerm.qrc
+--resource
+C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/.qt/rcc/appberoringsskjerm_raw_qml_0.qrc
+/beroringsskjerm/main.qml
+/beroringsskjerm/library/Info_popup.qml
+/beroringsskjerm/library/TopSectionPopup.qml
+/beroringsskjerm/library/MenuSection.qml
+/beroringsskjerm/library/SettingsPage.qml
+/beroringsskjerm/library/OverviewPage.qml
+/beroringsskjerm/library/ColorButton.qml

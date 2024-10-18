@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/beroringsskjerm/">
+    <file alias="main.qml">C:/QTSkole/beroringsskjerm/main.qml</file>
+    <file alias="library/Info_popup.qml">C:/QTSkole/beroringsskjerm/library/Info_popup.qml</file>
+    <file alias="library/TopSectionPopup.qml">C:/QTSkole/beroringsskjerm/library/TopSectionPopup.qml</file>
+    <file alias="library/MenuSection.qml">C:/QTSkole/beroringsskjerm/library/MenuSection.qml</file>
+    <file alias="library/SettingsPage.qml">C:/QTSkole/beroringsskjerm/library/SettingsPage.qml</file>
+    <file alias="library/OverviewPage.qml">C:/QTSkole/beroringsskjerm/library/OverviewPage.qml</file>
+    <file alias="library/ColorButton.qml">C:/QTSkole/beroringsskjerm/library/ColorButton.qml</file>
+  </qresource>
+</RCC>
+

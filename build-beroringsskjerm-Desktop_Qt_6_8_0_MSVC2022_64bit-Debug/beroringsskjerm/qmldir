@@ -1,0 +1,10 @@
+module beroringsskjerm
+typeinfo appberoringsskjerm.qmltypes
+prefer :/beroringsskjerm/
+Info_popup 1.0 library/Info_popup.qml
+TopSectionPopup 1.0 library/TopSectionPopup.qml
+MenuSection 1.0 library/MenuSection.qml
+SettingsPage 1.0 library/SettingsPage.qml
+OverviewPage 1.0 library/OverviewPage.qml
+ColorButton 1.0 library/ColorButton.qml
+

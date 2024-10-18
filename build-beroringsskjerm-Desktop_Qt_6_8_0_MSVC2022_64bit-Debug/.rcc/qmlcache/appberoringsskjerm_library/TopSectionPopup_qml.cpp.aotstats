@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 8,
+                        "durationMicroseconds": 348,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name color_background",
+                        "functionName": "color",
+                        "line": 14
+                    }
+                ],
+                "filepath": "C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/TopSectionPopup.qml"
+            }
+        ],
+        "moduleId": "beroringsskjerm(appberoringsskjerm)"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: colorButton",
+                        "functionName": "color",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "Cannot access value for name background",
+                        "functionName": "onCompleted",
+                        "line": 16
+                    }
+                ],
+                "filepath": "C:/QTSkole/build-beroringsskjerm-Desktop_Qt_6_8_0_MSVC2022_64bit-Debug/ColorButton.qml"
+            }
+        ],
+        "moduleId": "beroringsskjerm(appberoringsskjerm)"
+    }
+]

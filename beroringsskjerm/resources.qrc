@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/models">
+        <file>../models/car.glb</file>  <!-- Path relative to the location of the .qrc file -->
+    </qresource>
+</RCC>
